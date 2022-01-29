@@ -66,13 +66,13 @@ def process_coins(c_type):
 
 
 def transaction(change, c_type):
-    if int(change) < 0:
-        print("Sorry that's not enough money. Money refunded.")
-        return False
-    else:
+    if int(change) > 0:
         print(f"Here is ${change} in change")
         print(f"Here is your {c_type} Enjoy")
         return True
+    else:
+        print("Sorry that's not enough money. Money refunded.")
+        return False
 
 
 resources_list = {"money_in_account": 0, "water_left": resources["water"], "milk_left": resources["milk"],
