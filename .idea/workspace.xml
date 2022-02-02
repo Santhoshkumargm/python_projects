@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9163149-6265-4c4b-9a16-2bac56bc33c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Coffee_Machine_Using_OOPS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee_Machine_Using_OOPS/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee_Machine_Using_OOPS/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee_Machine_Using_OOPS/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee_Machine_Using_OOPS/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_Game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_Game/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_Game/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_Game/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPS/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/main.py" afterDir="false" />
     </list>
@@ -35,7 +48,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Quiz_Game" />
+      <recent name="$PROJECT_DIR$/Coffee_Machine_Using_OOPS" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -80,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +107,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coffee_Machine" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coffee_Machine_Using_OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coffee_Machine/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coffee_Machine_Using_OOPS/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quiz_Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quiz_Game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="question_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quiz_Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quiz_Game/question_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,8 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.question_model" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
