@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9163149-6265-4c4b-9a16-2bac56bc33c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hirst_Painting_Challenge/hirst_dots.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hirst_Painting_Challenge/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Open_Trivia_Quiz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_Excercises/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_Excercises/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hirst_Painting_Challenge/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Open_Trivia_Quiz/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Open_Trivia_Quiz/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Open_Trivia_Quiz/question_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Open_Trivia_Quiz/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_Excercises/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spirograph_Challenge/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_Excercises/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spirograph_Challenge/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +45,7 @@
       <recent name="$PROJECT_DIR$/Coffee_Machine_Using_OOPS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +80,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spirograph_Challenge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spirograph_Challenge/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,34 +151,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="question_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quiz_Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quiz_Game/question_model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.question_model" />
       </list>
     </recent_temporary>
   </component>

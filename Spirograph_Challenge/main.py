@@ -13,6 +13,7 @@ def random_color():
     return color
 
 
+tim.hideturtle()
 angle = 5
 x = 360 / angle
 for i in range(int(x)):
